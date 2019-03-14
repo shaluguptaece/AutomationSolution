@@ -1,0 +1,8 @@
+06-Feb-2019-11:53:30 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+06-Feb-2019-11:53:39 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - navigate to current user page
+06-Feb-2019-11:53:42 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - New User has been created
+06-Feb-2019-11:53:42 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - The User has been deleted
+06-Feb-2019-11:59:54 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Getting logged in user name displayed at right bottom corner
+06-Feb-2019-11:59:54 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Verifying the logged in user name displayed on at right bottom corner
+06-Feb-2019-13:43:06 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Getting logged in user name displayed at right bottom corner
+06-Feb-2019-13:43:06 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Verifying the logged in user name displayed on at right bottom corner

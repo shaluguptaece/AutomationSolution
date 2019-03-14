@@ -1,0 +1,161 @@
+18-May-2018-16:00:50 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:01:26 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:02:57 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:03:03 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.01014112305955317-1)
+18-May-2018-16:03:03 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.7389310824613271-1)
+18-May-2018-16:03:43 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.7389310824613271-4)
+18-May-2018-16:03:43 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.7389310824613271-5)
+18-May-2018-16:03:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.7389310824613271-6)
+18-May-2018-16:03:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.7389310824613271-6) : value : sample.email@mail.com
+18-May-2018-16:03:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.7389310824613271-7)
+18-May-2018-16:03:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.7389310824613271-7) : value : 127.0.0.1
+18-May-2018-16:03:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.7389310824613271-8)
+18-May-2018-16:03:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.7389310824613271-8) : value : sample.email@mail.com
+18-May-2018-16:03:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.7389310824613271-9)
+18-May-2018-16:03:48 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.31283596907413225-1)
+18-May-2018-16:03:48 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-2)
+18-May-2018-16:03:50 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.31283596907413225-3)
+18-May-2018-16:04:32 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.31283596907413225-7)
+18-May-2018-16:04:34 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-8)
+18-May-2018-16:04:46 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.31283596907413225-11)
+18-May-2018-16:05:29 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.31283596907413225-12)
+18-May-2018-16:05:32 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-13)
+18-May-2018-16:05:33 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-14)
+18-May-2018-16:05:38 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-66)
+18-May-2018-16:05:41 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-67)
+18-May-2018-16:05:42 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-68)
+18-May-2018-16:05:46 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-1070)
+18-May-2018-16:05:50 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-1071)
+18-May-2018-16:05:52 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.31283596907413225-1072)
+18-May-2018-16:05:52 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.31283596907413225-1102)
+18-May-2018-16:05:53 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-1103)
+18-May-2018-16:05:55 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.31283596907413225-1104)
+18-May-2018-16:06:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:06:55 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:07:00 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - navigate to current user page
+18-May-2018-16:07:48 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:09:02 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:10:13 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:10:42 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:10:46 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - navigate to current user page
+18-May-2018-16:10:46 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - Click on main group option tab
+18-May-2018-16:10:48 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - Verifiesd the message displayed once the group is created successfully
+18-May-2018-16:10:52 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - The group has been deleted
+18-May-2018-16:11:00 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:11:02 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - logging in application first to perform next action..
+18-May-2018-16:11:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - navigate to current user page
+18-May-2018-16:11:05 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - Click on main group option tab
+18-May-2018-16:11:15 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The User group details has been updated
+18-May-2018-16:11:19 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The group has been deleted
+18-May-2018-16:11:26 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:11:29 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - navigate to current user page
+18-May-2018-16:12:19 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:14:19 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:16:23 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.4997066097313856-10)
+18-May-2018-16:16:23 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.4997066097313856-22)
+18-May-2018-16:16:35 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.4997066097313856-68)
+18-May-2018-16:16:39 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.475762922547208-1)
+18-May-2018-16:16:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.0433895827769919-1)
+18-May-2018-16:16:53 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.0433895827769919-33)
+18-May-2018-16:17:02 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:18:02 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:18:18 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.8830661556629642-1)
+18-May-2018-16:18:38 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:20:24 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:20:57 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Getting logged in user name displayed at right bottom corner
+18-May-2018-16:20:57 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Verifying the logged in user name displayed on at right bottom corner
+18-May-2018-16:26:53 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:26:57 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - navigate to current user page
+18-May-2018-16:27:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - The User has been deleted
+18-May-2018-16:27:12 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:27:16 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - navigate to current user page
+18-May-2018-16:27:22 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User details has been updated
+18-May-2018-16:27:24 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User has been deleted
+18-May-2018-16:31:06 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:31:13 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - navigate to current user page
+18-May-2018-16:31:15 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - New User has been created
+18-May-2018-16:31:16 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - The User has been deleted
+18-May-2018-16:32:43 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:32:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.2369961220238639-1)
+18-May-2018-16:32:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.584467717581868-1)
+18-May-2018-16:32:51 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.5190863172160662-1)
+18-May-2018-16:32:51 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-2)
+18-May-2018-16:32:53 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5190863172160662-3)
+18-May-2018-16:33:36 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.5190863172160662-7)
+18-May-2018-16:33:38 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-8)
+18-May-2018-16:33:50 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.5190863172160662-11)
+18-May-2018-16:34:32 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.5190863172160662-12)
+18-May-2018-16:34:34 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-13)
+18-May-2018-16:34:35 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-14)
+18-May-2018-16:34:42 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-66)
+18-May-2018-16:34:45 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-67)
+18-May-2018-16:34:46 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-68)
+18-May-2018-16:34:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-1070)
+18-May-2018-16:34:53 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-1071)
+18-May-2018-16:34:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5190863172160662-1072)
+18-May-2018-16:34:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5190863172160662-1075)
+18-May-2018-16:34:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5190863172160662-1101)
+18-May-2018-16:34:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5190863172160662-1163)
+18-May-2018-16:34:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5190863172160662-1189)
+18-May-2018-16:34:58 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-1071)
+18-May-2018-16:35:07 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.5190863172160662-1253)
+18-May-2018-16:35:08 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-1254)
+18-May-2018-16:35:10 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5190863172160662-1255)
+18-May-2018-16:35:42 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:37:24 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:39:02 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.3740306064011931-10)
+18-May-2018-16:39:02 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.3740306064011931-22)
+18-May-2018-16:39:13 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.3740306064011931-68)
+18-May-2018-16:39:18 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.08105120705959434-1)
+18-May-2018-16:39:23 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.148663398729038-1)
+18-May-2018-16:39:31 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.148663398729038-33)
+18-May-2018-16:43:55 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:47:54 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:55:28 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-16:57:06 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.9968863433928519-10)
+18-May-2018-16:57:06 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.9968863433928519-22)
+18-May-2018-16:57:18 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9968863433928519-68)
+18-May-2018-16:57:23 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.6307116268199162-1)
+18-May-2018-16:57:27 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.23779888121329584-1)
+18-May-2018-16:57:36 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23779888121329584-33)
+18-May-2018-16:57:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23779888121329584-39)
+18-May-2018-16:57:48 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.23779888121329584-43)
+18-May-2018-16:57:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.23779888121329584-44)
+18-May-2018-16:57:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.23779888121329584-44) : value : 2
+18-May-2018-16:57:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.23779888121329584-45)
+18-May-2018-16:57:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.23779888121329584-45) : value : 2
+18-May-2018-16:57:49 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23779888121329584-46)
+18-May-2018-16:57:51 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23779888121329584-47)
+18-May-2018-16:57:55 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23779888121329584-71)
+18-May-2018-16:59:43 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-17:00:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-17:00:40 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-17:25:35 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-18:32:52 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-18:39:38 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+18-May-2018-18:39:54 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.49179084659188677-1)
+18-May-2018-18:39:58 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.6266024002462038-1)
+18-May-2018-18:40:02 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.23054841171443496-1)
+18-May-2018-18:40:06 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-2)
+18-May-2018-18:40:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.23054841171443496-3)
+18-May-2018-18:40:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.23054841171443496-7)
+18-May-2018-18:41:01 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-8)
+18-May-2018-18:41:26 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.23054841171443496-11)
+18-May-2018-18:42:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.23054841171443496-12)
+18-May-2018-18:42:26 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-13)
+18-May-2018-18:42:27 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-14)
+18-May-2018-18:42:32 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-66)
+18-May-2018-18:42:43 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-67)
+18-May-2018-18:42:47 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-68)
+18-May-2018-18:42:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-1070)
+18-May-2018-18:43:06 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-1071)
+18-May-2018-18:43:13 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.23054841171443496-1072)
+18-May-2018-18:43:15 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.23054841171443496-1075)
+18-May-2018-18:43:17 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.23054841171443496-1101)
+18-May-2018-18:43:20 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.23054841171443496-1163)
+18-May-2018-18:43:22 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.23054841171443496-1189)
+18-May-2018-18:43:29 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-1251)
+18-May-2018-18:44:29 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.23054841171443496-1254)
+18-May-2018-18:44:32 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-1255)
+18-May-2018-18:44:36 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.23054841171443496-1256)
+18-May-2018-18:49:46 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials

@@ -1,0 +1,72 @@
+17-Apr-2018-18:35:48 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:36:15 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:38:20 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:38:31 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.257170141307997-1)
+17-Apr-2018-18:39:11 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.257170141307997-3)
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.257170141307997-4)
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.257170141307997-5)
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.257170141307997-5) : value : sample.email@mail.com
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.257170141307997-6)
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.257170141307997-6) : value : 127.0.0.1
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.257170141307997-7)
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.257170141307997-7) : value : sample.email@mail.com
+17-Apr-2018-18:39:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.257170141307997-8)
+17-Apr-2018-18:39:15 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.08637035390456438-1)
+17-Apr-2018-18:39:55 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.08637035390456438-4)
+17-Apr-2018-18:39:55 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.08637035390456438-5)
+17-Apr-2018-18:39:57 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.08637035390456438-6)
+17-Apr-2018-18:39:57 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.08637035390456438-6) : value : sample.email@mail.com
+17-Apr-2018-18:39:57 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.08637035390456438-7)
+17-Apr-2018-18:39:57 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.08637035390456438-7) : value : 127.0.0.1
+17-Apr-2018-18:39:57 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClearTextValue] -  Clear the Textbox @ Element (id = 0.08637035390456438-8)
+17-Apr-2018-18:39:57 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [EnterTextValue] - Type text value in Textbox @ Element (id = 0.08637035390456438-8) : value : sample.email@mail.com
+17-Apr-2018-18:39:57 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.08637035390456438-9)
+17-Apr-2018-18:40:00 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.9786674044368782-1)
+17-Apr-2018-18:40:00 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9786674044368782-2)
+17-Apr-2018-18:40:03 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.9786674044368782-3)
+17-Apr-2018-18:40:46 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.9786674044368782-7)
+17-Apr-2018-18:40:48 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9786674044368782-8)
+17-Apr-2018-18:41:00 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.9786674044368782-11)
+17-Apr-2018-18:41:42 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.9786674044368782-12)
+17-Apr-2018-18:41:44 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9786674044368782-13)
+17-Apr-2018-18:41:46 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9786674044368782-14)
+17-Apr-2018-18:41:51 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9786674044368782-55)
+17-Apr-2018-18:41:54 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9786674044368782-56)
+17-Apr-2018-18:41:56 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.9786674044368782-57)
+17-Apr-2018-18:42:06 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:42:57 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:43:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - navigate to current user page
+17-Apr-2018-18:43:08 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - New User has been created
+17-Apr-2018-18:43:09 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - The User has been deleted
+17-Apr-2018-18:43:17 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:44:31 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:45:42 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:46:52 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:46:55 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - navigate to current user page
+17-Apr-2018-18:46:56 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - Click on main group option tab
+17-Apr-2018-18:46:58 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - Verifiesd the message displayed once the group is created successfully
+17-Apr-2018-18:47:02 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - The group has been deleted
+17-Apr-2018-18:47:11 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:47:12 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - logging in application first to perform next action..
+17-Apr-2018-18:47:14 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - navigate to current user page
+17-Apr-2018-18:47:15 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - Click on main group option tab
+17-Apr-2018-18:47:25 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The User group details has been updated
+17-Apr-2018-18:47:29 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The group has been deleted
+17-Apr-2018-18:47:37 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:47:40 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - navigate to current user page
+17-Apr-2018-18:47:46 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User details has been updated
+17-Apr-2018-18:47:48 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User has been deleted
+17-Apr-2018-18:47:57 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:49:57 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:52:01 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.7405990379202991-10)
+17-Apr-2018-18:52:01 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.7405990379202991-22)
+17-Apr-2018-18:52:12 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.7405990379202991-62)
+17-Apr-2018-18:52:18 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.40144656509540555-1)
+17-Apr-2018-18:52:27 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.6569669037336305-1)
+17-Apr-2018-18:52:35 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.6569669037336305-31)
+17-Apr-2018-18:52:46 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:53:42 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:53:55 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:55:41 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+17-Apr-2018-18:56:52 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Getting logged in user name displayed at right bottom corner
+17-Apr-2018-18:56:52 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Verifying the logged in user name displayed on at right bottom corner

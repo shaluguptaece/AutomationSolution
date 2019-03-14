@@ -1,0 +1,22 @@
+08-May-2018-13:20:12 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+08-May-2018-13:20:34 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+08-May-2018-13:20:38 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - navigate to current user page
+08-May-2018-13:20:40 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - New User has been created
+08-May-2018-13:20:41 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - The User has been deleted
+08-May-2018-13:20:48 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+08-May-2018-13:20:50 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - logging in application first to perform next action..
+08-May-2018-13:20:52 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - navigate to current user page
+08-May-2018-13:20:53 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - Click on main group option tab
+08-May-2018-13:21:03 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The User group details has been updated
+08-May-2018-13:21:07 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The group has been deleted
+08-May-2018-13:21:14 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+08-May-2018-13:21:18 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - navigate to current user page
+08-May-2018-13:21:24 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User details has been updated
+08-May-2018-13:21:26 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User has been deleted
+08-May-2018-13:21:34 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+08-May-2018-13:22:43 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+08-May-2018-13:22:58 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.572566024187499-1)
+08-May-2018-13:23:08 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.869314072903308-1)
+08-May-2018-13:23:23 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+08-May-2018-13:24:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Getting logged in user name displayed at right bottom corner
+08-May-2018-13:24:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Verifying the logged in user name displayed on at right bottom corner

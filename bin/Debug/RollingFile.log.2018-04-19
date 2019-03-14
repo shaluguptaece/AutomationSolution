@@ -1,0 +1,55 @@
+19-Apr-2018-14:42:29 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:43:04 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:45:09 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:45:20 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.17124535467055324-1)
+19-Apr-2018-14:45:21 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.060137612764888715-1)
+19-Apr-2018-14:45:24 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.536998885323116-1)
+19-Apr-2018-14:45:24 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.536998885323116-2)
+19-Apr-2018-14:45:27 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.536998885323116-3)
+19-Apr-2018-14:46:09 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.536998885323116-7)
+19-Apr-2018-14:46:11 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.536998885323116-8)
+19-Apr-2018-14:46:23 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.536998885323116-12)
+19-Apr-2018-14:47:06 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.536998885323116-13)
+19-Apr-2018-14:47:08 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.536998885323116-14)
+19-Apr-2018-14:47:09 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.536998885323116-15)
+19-Apr-2018-14:47:15 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.536998885323116-57)
+19-Apr-2018-14:47:18 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.536998885323116-58)
+19-Apr-2018-14:47:19 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.536998885323116-59)
+19-Apr-2018-14:47:30 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:48:20 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:48:26 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - navigate to current user page
+19-Apr-2018-14:48:29 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - New User has been created
+19-Apr-2018-14:48:29 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreatAndDeleteUser] - The User has been deleted
+19-Apr-2018-14:48:37 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:49:06 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:50:17 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:51:25 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:51:28 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - navigate to current user page
+19-Apr-2018-14:51:29 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - Click on main group option tab
+19-Apr-2018-14:51:30 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - Verifiesd the message displayed once the group is created successfully
+19-Apr-2018-14:51:35 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [CreateAndDeleteUserGroup] - The group has been deleted
+19-Apr-2018-14:51:43 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:51:44 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - logging in application first to perform next action..
+19-Apr-2018-14:51:45 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - navigate to current user page
+19-Apr-2018-14:51:46 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - Click on main group option tab
+19-Apr-2018-14:51:56 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The User group details has been updated
+19-Apr-2018-14:52:00 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditGroupDetails] - The group has been deleted
+19-Apr-2018-14:52:08 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:52:11 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - navigate to current user page
+19-Apr-2018-14:52:16 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User details has been updated
+19-Apr-2018-14:52:19 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [EditUserDetails] - The User has been deleted
+19-Apr-2018-14:52:27 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:54:28 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:56:08 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5771040517185198-10)
+19-Apr-2018-14:56:08 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [SelectByIndex] -  Select dropdown option by index : Element (id = 0.5771040517185198-22)
+19-Apr-2018-14:56:19 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.5771040517185198-62)
+19-Apr-2018-14:56:25 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.1262119081363393-1)
+19-Apr-2018-14:56:34 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnLink] -  Clicking on link : Element (id = 0.11603460135677457-1)
+19-Apr-2018-14:56:43 [Edwards.Scada.Test.Framework.GlobalHelper.ElementExtensions] [INFO] [ClickOnButton] -  Button Click @ Element (id = 0.11603460135677457-31)
+19-Apr-2018-14:56:54 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:58:17 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-14:58:30 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-15:00:15 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials
+19-Apr-2018-15:01:36 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Getting logged in user name displayed at right bottom corner
+19-Apr-2018-15:01:36 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [UserLogin] - Verifying the logged in user name displayed on at right bottom corner
+19-Apr-2018-15:24:36 [Edwards.Scada.Test.Framework.TestCases.EdwardsScadaUIPTests] [INFO] [LoginToEdwardsScada] - Logging in using credentials

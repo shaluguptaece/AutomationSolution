@@ -1,0 +1,225 @@
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.api.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\log4net.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.pdb
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.xml
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.pdb
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.xml
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\log4net.xml
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.xml
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.xml
+C:\Framework Structure\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.xml
+C:\Framework Structure\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csprojResolveAssemblyReference.cache
+C:\Framework Structure\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CoreCompileInputs.cache
+C:\Framework Structure\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.dll
+C:\Framework Structure\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.api.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\log4net.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.pdb
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.xml
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.pdb
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.xml
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\log4net.xml
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.xml
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.xml
+C:\Selenium Automation\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.xml
+C:\Selenium Automation\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csprojResolveAssemblyReference.cache
+C:\Selenium Automation\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CoreCompileInputs.cache
+C:\Selenium Automation\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.dll
+C:\Selenium Automation\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.pdb
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\NUnit3.TestAdapter.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.api.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Pdb.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Mdb.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\Mono.Cecil.Rocks.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.pdb
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\log4net.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.dll
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.pdb
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.xml
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.pdb
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.xml
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\log4net.xml
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.xml
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.xml
+C:\KPL\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.xml
+C:\KPL\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csprojResolveAssemblyReference.cache
+C:\KPL\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CoreCompileInputs.cache
+C:\KPL\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.dll
+C:\KPL\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CoreCompileInputs.cache
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\nunit.engine.api.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll.config
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\DnsClient.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\ExtentReports.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\log4net.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\MongoDB.Bson.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\MongoDB.Driver.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\RazorEngine.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\System.Buffers.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\System.ValueTuple.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\DnsClient.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.pdb
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\FluentAssertions.Core.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\log4net.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\MongoDB.Bson.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\MongoDB.Driver.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.pdb
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\nunit.framework.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\RazorEngine.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CopyComplete
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.dll
+C:\Users\INEEXTshagu\Desktop\Edwards\Scada\Test\Framework\obj\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\nunit.engine.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\nunit.engine.api.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll.config
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\DnsClient.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\ExtentReports.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\FluentAssertions.Core.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\FluentAssertions.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\log4net.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\MongoDB.Bson.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\MongoDB.Driver.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\nunit.framework.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\RazorEngine.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\System.Buffers.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\System.ValueTuple.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\System.Web.Razor.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\WebDriver.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\WebDriver.Support.dll
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\DnsClient.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\FluentAssertions.pdb
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\FluentAssertions.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\FluentAssertions.Core.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\log4net.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\MongoDB.Bson.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\MongoDB.Driver.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\nunit.framework.pdb
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\nunit.framework.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\RazorEngine.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\System.Web.Razor.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\WebDriver.xml
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\WebDriver.Support.xml
+C:\Users\INEEXTshagu\Music\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CoreCompileInputs.cache
+C:\Users\INEEXTshagu\Music\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CopyComplete
+C:\Users\INEEXTshagu\Music\Framework\obj\Debug\Edwards.Scada.Test.Framework.dll
+C:\Users\INEEXTshagu\Music\Framework\obj\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Users\INEEXTshagu\Music\Framework\obj\Debug\Edwards.Scada.Test.Framework.csprojAssemblyReference.cache
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Drivers\chromedriver.exe
+C:\Users\INEEXTshagu\Music\Framework\bin\Debug\Drivers\geckodriver.exe
+C:\Framework\bin\Debug\NUnit3.TestAdapter.dll
+C:\Framework\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Framework\bin\Debug\nunit.engine.dll
+C:\Framework\bin\Debug\nunit.engine.api.dll
+C:\Framework\bin\Debug\Drivers\chromedriver.exe
+C:\Framework\bin\Debug\Drivers\geckodriver.exe
+C:\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll.config
+C:\Framework\bin\Debug\Edwards.Scada.Test.Framework.dll
+C:\Framework\bin\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Framework\bin\Debug\DnsClient.dll
+C:\Framework\bin\Debug\ExtentReports.dll
+C:\Framework\bin\Debug\FluentAssertions.Core.dll
+C:\Framework\bin\Debug\FluentAssertions.dll
+C:\Framework\bin\Debug\log4net.dll
+C:\Framework\bin\Debug\MongoDB.Bson.dll
+C:\Framework\bin\Debug\MongoDB.Driver.Core.dll
+C:\Framework\bin\Debug\MongoDB.Driver.dll
+C:\Framework\bin\Debug\Newtonsoft.Json.dll
+C:\Framework\bin\Debug\nunit.framework.dll
+C:\Framework\bin\Debug\RazorEngine.dll
+C:\Framework\bin\Debug\System.Buffers.dll
+C:\Framework\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Framework\bin\Debug\System.ValueTuple.dll
+C:\Framework\bin\Debug\System.Web.Razor.dll
+C:\Framework\bin\Debug\TechTalk.SpecFlow.dll
+C:\Framework\bin\Debug\WebDriver.dll
+C:\Framework\bin\Debug\WebDriver.Support.dll
+C:\Framework\bin\Debug\DnsClient.xml
+C:\Framework\bin\Debug\FluentAssertions.pdb
+C:\Framework\bin\Debug\FluentAssertions.xml
+C:\Framework\bin\Debug\FluentAssertions.Core.pdb
+C:\Framework\bin\Debug\FluentAssertions.Core.xml
+C:\Framework\bin\Debug\log4net.xml
+C:\Framework\bin\Debug\MongoDB.Bson.xml
+C:\Framework\bin\Debug\MongoDB.Driver.xml
+C:\Framework\bin\Debug\MongoDB.Driver.Core.xml
+C:\Framework\bin\Debug\Newtonsoft.Json.pdb
+C:\Framework\bin\Debug\Newtonsoft.Json.xml
+C:\Framework\bin\Debug\nunit.framework.pdb
+C:\Framework\bin\Debug\nunit.framework.xml
+C:\Framework\bin\Debug\RazorEngine.xml
+C:\Framework\bin\Debug\System.Web.Razor.xml
+C:\Framework\bin\Debug\WebDriver.xml
+C:\Framework\bin\Debug\WebDriver.Support.xml
+C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.csprojAssemblyReference.cache
+C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CoreCompileInputs.cache
+C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CopyComplete
+C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.dll
+C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.pdb

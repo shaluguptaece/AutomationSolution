@@ -1,0 +1,429 @@
+12-Feb-2019-11:11:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:11:52 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:11:53 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:11:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:11:57 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:11:58 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:11:59 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:11:59 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:12:01 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:12:04 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:12:07 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:12:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:12:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - Clicked Delete option
+12-Feb-2019-11:12:15 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - Clicked button Apply
+12-Feb-2019-11:13:20 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:13:28 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:13:28 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:13:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:13:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:13:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:13:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:13:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:13:34 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:13:36 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:13:37 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:13:55 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:14:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:14:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:14:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:14:29 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:14:29 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:14:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:14:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:14:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:14:32 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:14:34 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:14:34 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:14:40 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:15:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:15:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:15:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:15:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:15:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:15:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:15:53 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:15:53 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:15:54 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:15:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:15:57 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:15:58 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:15:58 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - Clicked Delete option
+12-Feb-2019-11:16:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:16:20 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:16:20 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:16:23 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:16:23 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:16:23 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:16:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:16:25 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:16:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:16:28 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:16:28 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:16:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:16:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - Clicked Delete option
+12-Feb-2019-11:18:11 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:18:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:18:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:18:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:18:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:18:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:18:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:18:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:18:21 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:18:23 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:18:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:18:41 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:34:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:34:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:34:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:34:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:34:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:34:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:34:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:34:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:34:28 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:34:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:34:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:34:32 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:34:32 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - Clicked Delete option
+12-Feb-2019-11:34:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedTheHeaderOfTheFolderAgainAndChooseDelete] - clicked on folder header
+12-Feb-2019-11:34:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedTheHeaderOfTheFolderAgainAndChooseDelete] - Clicked Delete option
+12-Feb-2019-11:35:02 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:35:05 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:35:05 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:35:08 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:35:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:35:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:35:11 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:35:11 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:35:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:35:15 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:35:15 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:35:16 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:35:16 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - Clicked Delete option
+12-Feb-2019-11:35:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedTheHeaderOfTheFolderAgainAndChooseDelete] - clicked on folder header
+12-Feb-2019-11:35:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedTheHeaderOfTheFolderAgainAndChooseDelete] - Clicked Delete option
+12-Feb-2019-11:47:05 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:47:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:47:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:47:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:47:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:47:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:47:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:47:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:47:16 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:47:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:47:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:48:46 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - clicked on folder header
+12-Feb-2019-11:48:46 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedHeaderOfAddedFolderAndClickedDeleteOption] - Clicked Delete option
+12-Feb-2019-11:48:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedTheHeaderOfTheFolderAgainAndChooseDelete] - clicked on folder header
+12-Feb-2019-11:48:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedTheHeaderOfTheFolderAgainAndChooseDelete] - Clicked Delete option
+12-Feb-2019-11:50:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:50:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:51:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-11:51:20 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-11:51:20 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-11:51:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-11:51:25 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-11:51:25 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-11:51:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-11:51:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-11:51:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-11:51:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:51:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-11:51:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOnAddedFolderAndRename] - clicked on folder header
+12-Feb-2019-11:51:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOnAddedFolderAndRename] - Clicked rename option
+12-Feb-2019-11:51:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOnAddedFolderAndRename] - Clicked button Apply
+12-Feb-2019-11:51:41 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderRenamedSuccessfullyMessageAndAfterClickingOnOkButtonRenamedFolderShouldBeDisplayed] - Verified Folder Renamed Successfully message
+12-Feb-2019-11:51:45 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderRenamedSuccessfullyMessageAndAfterClickingOnOkButtonRenamedFolderShouldBeDisplayed] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-11:51:46 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderRenamedSuccessfullyMessageAndAfterClickingOnOkButtonRenamedFolderShouldBeDisplayed] - Verified Renamed folder should be displayed
+12-Feb-2019-12:51:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-12:51:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-12:52:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-12:52:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-12:52:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-12:52:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-12:52:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-12:52:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-12:52:35 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-12:52:35 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-12:52:37 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-12:52:39 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-12:52:42 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-12:53:57 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-12:54:00 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-12:54:00 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-12:54:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-12:54:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-12:54:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-12:54:05 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-12:54:05 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-12:54:07 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-12:54:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-12:54:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-13:35:32 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-13:37:15 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-13:38:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-13:40:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-13:57:42 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-13:58:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-13:58:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-13:58:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-13:58:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-13:58:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-13:58:08 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-13:58:08 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-13:58:10 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-13:58:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-13:58:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-13:59:40 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIOpenedADCENTRAAppUrl] - Initializing browser
+12-Feb-2019-13:59:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-13:59:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-13:59:46 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-13:59:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-13:59:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-13:59:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-13:59:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-13:59:50 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-13:59:52 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-13:59:52 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-14:05:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:05:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-14:05:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-14:05:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-14:05:07 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-14:05:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-14:05:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-14:05:11 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-14:05:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-14:05:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-14:24:55 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:27:05 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:28:42 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:33:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:36:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:37:37 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-14:38:43 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:41:43 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:43:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:46:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:47:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-14:52:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:53:23 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-14:57:58 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-14:59:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:01:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:02:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:17:37 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:18:57 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:25:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:27:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:29:45 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:31:05 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:35:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:36:46 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:45:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:46:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:47:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:50:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-15:51:32 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-15:57:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-16:03:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-16:04:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-16:19:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-16:20:29 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-16:38:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-16:39:52 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-17:18:35 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:19:55 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-17:27:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:28:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-17:32:32 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:32:33 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-17:32:36 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-17:32:36 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-17:32:37 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-17:32:39 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-17:32:39 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-17:32:41 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-17:32:43 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-17:32:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-17:43:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:43:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-17:43:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-17:43:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-17:43:18 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-17:43:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-17:43:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-17:43:23 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-17:43:25 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-17:43:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-17:45:16 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:45:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-17:45:21 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-17:45:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-17:45:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-17:45:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-17:45:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-17:45:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-17:45:29 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-17:45:30 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-17:48:01 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:48:02 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-17:48:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-17:48:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-17:48:07 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-17:48:10 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-17:48:10 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-17:48:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-17:48:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-17:48:15 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-17:49:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:49:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-17:49:20 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-17:49:21 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-17:49:21 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-17:49:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-17:49:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-17:49:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-17:49:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-17:49:27 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-17:51:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-17:51:09 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-17:51:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-17:51:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-17:51:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-17:51:16 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-17:51:16 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-17:51:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-17:51:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-17:51:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-18:00:07 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:00:07 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-18:00:12 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-18:00:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-18:00:13 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-18:00:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-18:00:17 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-18:00:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-18:00:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-18:00:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-18:01:38 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:01:39 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-18:01:42 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-18:01:42 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-18:01:43 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-18:01:45 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-18:01:45 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-18:01:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-18:01:49 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-18:01:50 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-18:04:16 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:05:36 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
+12-Feb-2019-18:07:50 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:07:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-18:07:54 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-18:07:55 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-18:07:55 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-18:07:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-18:07:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-18:07:58 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-18:08:01 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-18:08:01 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-18:11:34 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:11:40 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-18:11:46 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-18:11:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-18:11:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-18:11:49 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-18:11:49 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-18:11:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-18:11:54 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-18:12:04 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-18:14:43 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:14:44 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-18:14:47 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-18:14:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-18:14:48 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-18:14:50 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-18:14:50 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-18:14:51 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-18:14:54 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-18:14:54 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-18:25:55 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:25:56 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-18:25:59 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-18:25:59 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-18:26:00 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-18:26:01 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-18:26:01 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-18:26:03 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-18:26:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-18:26:06 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-18:34:14 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-18:34:15 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] - Verified User should be navigated to Home page
+12-Feb-2019-18:34:19 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickedDeviceExplorerLink] - clicked Device Explorer link
+12-Feb-2019-18:34:21 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToDeviceExplorerPage] - Verified User should be navigated to Device Explorer page
+12-Feb-2019-18:34:22 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [GivenIClickedOnAddFolderSystemIcon] - Clicked on add folder/ system icon
+12-Feb-2019-18:34:23 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Entered folder name
+12-Feb-2019-18:34:24 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredFolderNameAndClickedOnAddButton] - Clicked on Add to create folder
+12-Feb-2019-18:34:26 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeFolderAddedSuccessfullyMessage] - Verified 'Folder Added Successfully' message
+12-Feb-2019-18:34:29 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIClickOKButton] - Clicked OK button on Confirmation pop -up
+12-Feb-2019-18:34:31 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeAbleToSeeNewlyAddedFolder] - Verified added folder
+12-Feb-2019-19:08:41 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [WhenIEnteredAndAndClickedLoginButton] - Signing in to the application
+12-Feb-2019-19:10:02 [Edwards.Scada.Test.Framework.TestCases.DeviceExplorerTestsStepDefinition] [INFO] [ThenIShouldBeNavigatedToHomePage] -   Verifying User should be navigated to Home page
+  Expected: True
+  But was:  False
+
