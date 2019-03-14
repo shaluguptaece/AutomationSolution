@@ -194,7 +194,7 @@ namespace Edwards.Scada.Test.Framework.GlobalHelper
                 driver = new FirefoxDriver();
             }
 
-            driver.Manage().Window.Maximize();
+          //  driver.Manage().Window.Maximize();
             driver.Manage().Cookies.DeleteAllCookies();
             Waits.Wait(driver, 100);
         }
