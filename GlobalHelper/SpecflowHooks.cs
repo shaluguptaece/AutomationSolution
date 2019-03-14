@@ -178,6 +178,7 @@ namespace Edwards.Scada.Test.Framework.GlobalHelper
             {
                 ChromeOptions chromeOptions = new ChromeOptions();
                 //chromeOptions.AddArguments("--start-maximized");
+                options.AddArgument("-no-sandbox");
                 chromeOptions.AddArguments("--disable-extensions");
                 chromeOptions.AddArguments("--allow-running-insecure-content");
                 String chromeDriverPath = Path.Combine(path, @"Drivers\chromedriver.exe");
