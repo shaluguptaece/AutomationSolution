@@ -223,3 +223,6 @@ C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CoreCompileInputs.cac
 C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.csproj.CopyComplete
 C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.dll
 C:\Framework\obj\Debug\Edwards.Scada.Test.Framework.pdb
+C:\Users\ineextshagu\demo\AutomationSolution\obj\Debug\Edwards.Scada.Test.Framework.csprojResolveAssemblyReference.cache
+C:\Users\ineextshagu\demo\AutomationSolution\obj\Debug\Edwards.Scada.Test.Framework.dll
+C:\Users\ineextshagu\demo\AutomationSolution\obj\Debug\Edwards.Scada.Test.Framework.pdb
