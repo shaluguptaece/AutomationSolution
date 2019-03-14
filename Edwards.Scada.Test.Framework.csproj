@@ -126,52 +126,22 @@
     <Compile Include="Pages\ReportPage.cs" />
     <Compile Include="Pages\UserPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TestCases\Feature\DeviceExplorerTests.feature.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DeviceExplorerTests.feature</DependentUpon>
-    </Compile>
-    <Compile Include="TestCases\Feature\DispatchManager.feature.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>DispatchManager.feature</DependentUpon>
-    </Compile>
-    <Compile Include="TestCases\Step Definition\DeviceExplorerTestsStepDefinition.cs" />
     <Compile Include="TestCases\Feature\EdwardScadaUIPTests.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>EdwardScadaUIPTests.feature</DependentUpon>
     </Compile>
-    <Compile Include="TestCases\Step Definition\DispatchManagertStepDefinition.cs" />
     <Compile Include="TestCases\Step Definition\EdwardScadaUIPTestsStepDefinition.cs" />
     <Compile Include="TestCases\EdwardsScadaUIPTests.cs" />
-    <Compile Include="TestCases\Feature\UserManagement.feature.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>UserManagement.feature</DependentUpon>
-    </Compile>
-    <Compile Include="TestCases\Step Definition\UserManagementStepDefinition.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config">
       <SubType>Designer</SubType>
     </None>
-    <None Include="TestCases\Feature\DeviceExplorerTests.feature">
-      <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>DeviceExplorerTests.feature.cs</LastGenOutput>
-    </None>
-    <None Include="TestCases\Feature\DispatchManager.feature">
-      <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>DispatchManager.feature.cs</LastGenOutput>
-    </None>
     <None Include="TestCases\Feature\EdwardScadaUIPTests.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>EdwardScadaUIPTests.feature.cs</LastGenOutput>
-    </None>
-    <None Include="TestCases\Feature\UserManagement.feature">
-      <Generator>SpecFlowSingleFileGenerator</Generator>
-      <LastGenOutput>UserManagement.feature.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>
